@@ -161,6 +161,9 @@
     {\color{gray}\bodyfontit #1}%
 }
 
+\newcommand{\itfont}[1]{%
+    {\color{gray}\bodyfontit #1}%
+}
 \pagestyle{empty}
 
 %----------------------------------------------------------------------------------------
